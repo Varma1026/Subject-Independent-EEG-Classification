@@ -1,0 +1,2 @@
+subject,mode,accuracy_percent,balanced_accuracy_percent,kappa
+A01,strict_loso,46.52777777777778,46.52777777777778,0.2870370370370371
